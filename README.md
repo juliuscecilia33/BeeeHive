@@ -3,6 +3,12 @@
 
 ## Dubhacks
 Beeehive was a project built with my team at the DubHacks hackathon 2020, the largest 24-hour hackathon hosted in the Pacific Northwest. Even though it was fully virtual, my team was able to bond tremendously together creating unforgettable memories during the development of the website. Almost spending all night, we were so grateful with the outcome of our hard work and was actually credited by one of the judges! While we didn’t officially win, my first Hackathon will always be one to remember because of the project we developed and the unbelievable team I had. 
+<br />
+<br />
+## Meet the team
+![Beeehive](https://github.com/juliuscecilia33/BeeeHive/blob/main/src/components/images/Team.png)
+<br />
+<br />
 
 ## About
 BeeeHive Project, a website designed to combine communication channels such as groupme or Discord that have become popular in the new age of online learning, was created with the help of a team from Dubhacks Hackathon 2020! Beeehive's interface focuses on accessibility, allowing users with different skill levels with technology to use Beehive’s simple interface to enhance e-learning.
